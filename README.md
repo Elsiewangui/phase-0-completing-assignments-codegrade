@@ -385,7 +385,7 @@ Click on that button, and a new window of the CodeGrade interface should open
 up. As you haven't submitted an assignment for this lab yet, click on the
 "Create submission" button. On the next page that opens, click on the "GitHub"
 button. A GitHub screen will open asking you to authorize CodeGrade. (Note: you
-should only have to do this step the first time you create a submission.) Once
+should only have to do this step the first time you create a stubmission.) Once
 CodeGrade is authorized, as long as you're logged in to GitHub, CodeGrade should
 be connected to your account.
 
